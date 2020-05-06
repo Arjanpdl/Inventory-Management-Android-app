@@ -4,3 +4,4 @@ Inventory Management System using android platform and firebase database. Using 
 
 ![](Screenshot_1588806265.png)
 
+![](Screenshot_1588806270.png)
