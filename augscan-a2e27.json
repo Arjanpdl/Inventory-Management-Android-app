@@ -1,0 +1,355 @@
+{
+  "Users" : {
+    "apoudel143" : {
+      "deptname" : "tata",
+      "email" : "apoudel143@gmail.com"
+    },
+    "arjanpdl" : {
+      "deptname" : "Computer",
+      "email" : "arjanpdl@gmail.com"
+    },
+    "arplon" : {
+      "email" : "arplon@gmail.com",
+      "name" : "help"
+    },
+    "aryal33" : {
+      "email" : "aryal33@gmail.com",
+      "name" : "Arjan"
+    },
+    "augscan" : {
+      "deptname" : "hell",
+      "email" : "augscan@gmail.com"
+    },
+    "canderson" : {
+      "deptname" : "kk",
+      "email" : "canderson@mcneese.edu"
+    },
+    "cateander27" : {
+      "deptname" : "lab",
+      "email" : "cateander27@gmail.com"
+    },
+    "dipesh@gmailcom" : {
+      "ItemByCategory" : {
+        "inventory" : {
+          "853158004112" : {
+            "itembarcode" : "853158004112",
+            "itemcategory" : "inventory",
+            "itemname" : "alkaline ",
+            "itemprice" : "500"
+          }
+        }
+      },
+      "UserDetails" : {
+        "deptname" : "Comp",
+        "email" : "dipesh@gmail.com"
+      }
+    },
+    "finally" : {
+      "email" : "finally@gmail.com",
+      "name" : "Dept"
+    },
+    "hellll1111gmailcom" : {
+      "email" : "hellll1111@gmail.com",
+      "name" : "hell"
+    },
+    "help" : {
+      "deptname" : "help",
+      "email" : "help@gmail.com"
+    },
+    "help123" : {
+      "deptname" : "hel",
+      "email" : "help123@gmail.com"
+    },
+    "heven@gmailcom" : {
+      "ItemByCategory" : {
+        "Flowe" : {
+          "JOHN DOE" : {
+            "itembarcode" : "JOHN DOE",
+            "itemcategory" : "Flowe",
+            "itemname" : "Rose",
+            "itemprice" : "10"
+          }
+        },
+        "Food" : {
+          "04963406" : {
+            "itembarcode" : "04963406",
+            "itemcategory" : "Food",
+            "itemname" : "Coke",
+            "itemprice" : "2"
+          },
+          "078742051451" : {
+            "itembarcode" : "078742051451",
+            "itemcategory" : "Food",
+            "itemname" : "water",
+            "itemprice" : "2"
+          },
+          "5014016150821" : {
+            "itembarcode" : "5014016150821",
+            "itemcategory" : "Food",
+            "itemname" : "choclate",
+            "itemprice" : "2"
+          },
+          "5901234123457" : {
+            "itembarcode" : "5901234123457",
+            "itemcategory" : "Food",
+            "itemname" : "Water",
+            "itemprice" : "10"
+          }
+        },
+        "Liquor" : {
+          "11410334" : {
+            "itembarcode" : "11410334",
+            "itemcategory" : "Liquor",
+            "itemname" : "wine",
+            "itemprice" : "10"
+          }
+        },
+        "Person" : {
+          "1234567890" : {
+            "itembarcode" : "1234567890",
+            "itemcategory" : "Person",
+            "itemname" : "Hello",
+            "itemprice" : "6000"
+          },
+          "812345000009" : {
+            "itembarcode" : "812345000009",
+            "itemcategory" : "Person",
+            "itemname" : "Arjan",
+            "itemprice" : "600000"
+          }
+        },
+        "air" : {
+          "046500766510" : {
+            "itembarcode" : "046500766510",
+            "itemcategory" : "air",
+            "itemname" : "hello",
+            "itemprice" : "6"
+          }
+        },
+        "phone" : {
+          "036000291452" : {
+            "itembarcode" : "036000291452",
+            "itemcategory" : "phone",
+            "itemname" : "iphone",
+            "itemprice" : "100"
+          }
+        }
+      },
+      "Items" : {
+        "02420677" : {
+          "itembarcode" : "02420677",
+          "itemcategory" : "Clorex",
+          "itemname" : "Purex",
+          "itemprice" : "10"
+        },
+        "04963406" : {
+          "itembarcode" : "04963406",
+          "itemcategory" : "Food",
+          "itemname" : "Coke",
+          "itemprice" : "1"
+        },
+        "011111018457" : {
+          "itembarcode" : "011111018457",
+          "itemcategory" : "Misc",
+          "itemname" : "Dove",
+          "itemprice" : "6"
+        },
+        "022400723310" : {
+          "itembarcode" : "022400723310",
+          "itemcategory" : "Spray",
+          "itemname" : "Trey Semme",
+          "itemprice" : "13"
+        },
+        "043100095873" : {
+          "itembarcode" : "043100095873",
+          "itemcategory" : "Stationary",
+          "itemname" : "Copy",
+          "itemprice" : "5"
+        },
+        "046500733338" : {
+          "itembarcode" : "046500733338",
+          "itemcategory" : "freshness",
+          "itemname" : "glade spray",
+          "itemprice" : "20"
+        },
+        "046500766510" : {
+          "itembarcode" : "046500766510",
+          "itemcategory" : "Spray",
+          "itemname" : "Glade",
+          "itemprice" : "10"
+        },
+        "047400097728" : {
+          "itembarcode" : "047400097728",
+          "itemcategory" : "Body",
+          "itemname" : "Gillet",
+          "itemprice" : "3"
+        },
+        "051000217387" : {
+          "itembarcode" : "051000217387",
+          "itemcategory" : "Juice",
+          "itemname" : "v8 Juice",
+          "itemprice" : "10"
+        },
+        "071691525462" : {
+          "itembarcode" : "071691525462",
+          "itemcategory" : "Misc",
+          "itemname" : "Mug",
+          "itemprice" : "2"
+        },
+        "078742051451" : {
+          "itembarcode" : "078742051451",
+          "itemcategory" : "Water",
+          "itemname" : "Water",
+          "itemprice" : "6"
+        },
+        "078742252384" : {
+          "itembarcode" : "078742252384",
+          "itemcategory" : "Food",
+          "itemname" : "Black Peper",
+          "itemprice" : "6"
+        },
+        "078742297026" : {
+          "itembarcode" : "078742297026",
+          "itemcategory" : "Food",
+          "itemname" : "Almonds",
+          "itemprice" : "8"
+        },
+        "078742351933" : {
+          "itembarcode" : "078742351933",
+          "itemcategory" : "Grocery",
+          "itemname" : "Glacier Watee",
+          "itemprice" : "36"
+        },
+        "099988071416" : {
+          "itembarcode" : "099988071416",
+          "itemcategory" : "Wine",
+          "itemname" : "Menas",
+          "itemprice" : "14"
+        },
+        "229088304989" : {
+          "itembarcode" : "229088304989",
+          "itemcategory" : "Food",
+          "itemname" : "Butter Crosant",
+          "itemprice" : "6"
+        },
+        "325866105028" : {
+          "itembarcode" : "325866105028",
+          "itemcategory" : "medicine",
+          "itemname" : "advil",
+          "itemprice" : "3"
+        },
+        "611935380084" : {
+          "itembarcode" : "611935380084",
+          "itemcategory" : "sanitizer",
+          "itemname" : "Medex",
+          "itemprice" : "8"
+        },
+        "726282020047" : {
+          "itembarcode" : "726282020047",
+          "itemcategory" : "Spring Water",
+          "itemname" : "KentWood",
+          "itemprice" : "3"
+        },
+        "788821010025" : {
+          "itembarcode" : "788821010025",
+          "itemcategory" : "Food",
+          "itemname" : "Achar",
+          "itemprice" : "6"
+        },
+        "796252300196" : {
+          "itembarcode" : "796252300196",
+          "itemcategory" : "Jucie",
+          "itemname" : "Mango",
+          "itemprice" : "3"
+        },
+        "797677300204" : {
+          "itembarcode" : "797677300204",
+          "itemcategory" : "Food",
+          "itemname" : "Ghee",
+          "itemprice" : "6"
+        },
+        "806360681008" : {
+          "itembarcode" : "806360681008",
+          "itemcategory" : "Medicine",
+          "itemname" : "Aleeve",
+          "itemprice" : "5"
+        },
+        "811538011211" : {
+          "itembarcode" : "811538011211",
+          "itemcategory" : "liquior",
+          "itemname" : "Jhose",
+          "itemprice" : "6"
+        },
+        "9781454922759" : {
+          "itembarcode" : "9781454922759",
+          "itemcategory" : "Book",
+          "itemname" : "Hamilton",
+          "itemprice" : "33"
+        }
+      },
+      "UserDetails" : {
+        "deptname" : "computer",
+        "email" : "heven@gmail.com"
+      }
+    },
+    "hmOQpsMV5oTVNSVMWLsRaLVPl7G2" : {
+      "email" : "hellopppp@yahoo.com",
+      "name" : "jp"
+    },
+    "love45@gmail" : {
+      "email" : "love45@gmail.com",
+      "name" : "love"
+    },
+    "nam" : {
+      "deptname" : "Tab",
+      "email" : "nam@gmail.com"
+    },
+    "name" : "pppp",
+    "nepal123@gmailcom" : {
+      "UserDetails" : {
+        "deptname" : "McNeese",
+        "email" : "nepal123@gmail.com"
+      }
+    },
+    "nepali1" : {
+      "deptname" : "lab",
+      "email" : "nepali1@gmail.com"
+    },
+    "nischal@gmailcom" : {
+      "ItemByCategory" : {
+        "Food" : {
+          "04963406" : {
+            "itembarcode" : "04963406",
+            "itemcategory" : "Food",
+            "itemname" : "Coca Cola",
+            "itemprice" : "2"
+          }
+        }
+      },
+      "Items" : {
+        "04963406" : {
+          "itembarcode" : "04963406",
+          "itemcategory" : "Food",
+          "itemname" : "Coca Cola",
+          "itemprice" : "2"
+        }
+      },
+      "UserDetails" : {
+        "deptname" : "Technology",
+        "email" : "Nischal@gmail.com"
+      }
+    },
+    "nischalaryalty" : {
+      "email" : "nischal.aryalty@gmail.com",
+      "name" : "Nischal"
+    },
+    "ram0onaru" : {
+      "deptname" : "hellp",
+      "email" : "ram0onaru@gmail.com"
+    },
+    "yam" : {
+      "deptname" : "yab",
+      "email" : "yam@gmail.com"
+    }
+  }
+}
