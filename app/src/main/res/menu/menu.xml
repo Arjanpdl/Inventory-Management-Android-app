@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Menu"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_menu_blue_24dp">
+
+    <menu>
+        <item
+        android:id="@+id/logoutMenu"
+        android:orderInCategory="300"
+        android:title="Logout"
+        android:icon="@drawable/ic_lock_open_blue_24dp"
+        app:showAsAction="collapseActionView">
+
+    </item>
+
+    <!--<item-->
+
+        <!--android:id="@+id/ProfileMenu"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="Profile"-->
+        <!--android:icon="@drawable/ic_account_circle_blue_24dp"-->
+        <!--app:showAsAction="collapseActionView">-->
+
+    <!--</item>-->
+
+    <!--<item-->
+
+        <!--android:id="@+id/SettingMenu"-->
+        <!--android:orderInCategory="200"-->
+        <!--android:title="Setting"-->
+        <!--android:icon="@drawable/ic_settings_blue_24dp"-->
+        <!--app:showAsAction="collapseActionView">-->
+    <!--</item>-->
+
+    </menu>
+
+
+
+    </item>
+</menu>

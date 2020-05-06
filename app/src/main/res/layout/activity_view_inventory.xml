@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".viewInventoryActivity"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundgradient">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No of Items = "
+            android:textColor="#FFFFFF"
+            android:id="@+id/viewInventory"
+            android:textStyle="bold"
+            android:textSize="20dp"
+           android:layout_marginLeft="3dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FC0703"
+            android:id="@+id/totalnoitem"
+            android:text="0"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:text=" Total sum = $ "
+            android:layout_marginLeft="30dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FC0703"
+            android:id="@+id/totalsum"
+            android:text="0"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerViews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp">
+
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

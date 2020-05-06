@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context=".MainActivity"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="357dp"
+        android:layout_height="347dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        app:srcCompat="@drawable/inventory" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="221dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-106dp"
+        android:fontFamily="@font/allura"
+        android:text="augScan"
+        android:textColor="#C1F8B0B0"
+        android:textSize="63dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/LoginButtonMain"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="-55dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_person_login"
+        android:hint="Login"
+        android:onClick="login"
+        android:textColorHint="#ffff"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/SignUpMain"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/LoginButtonMain"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="-62dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_person_register"
+        android:hint="Register"
+        android:onClick="register"
+        android:textColorHint="#FFFF"
+        android:textSize="18dp" />
+</RelativeLayout>

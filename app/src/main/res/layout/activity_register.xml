@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RegisterActivity"
+    android:background="@drawable/gradient">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="236dp"
+        android:layout_height="190dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        app:srcCompat="@drawable/inventory" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="-90dp"
+        android:fontFamily="@font/allura"
+        android:text="augScan"
+        android:textColor="#C1F8B0B0"
+        android:textSize="55dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/emailRegister"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-65dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_account_user"
+        android:ems="10"
+        android:textColor="#fff"
+        android:hint="Email"
+        android:inputType="textPersonName"
+        android:textColorHint="#ffff"
+        android:textSize="16dp" />
+
+    <EditText
+        android:id="@+id/passwordRegister"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/emailRegister"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:layout_marginBottom="-50dp"
+        android:background="#11000000"
+        android:textColorHint="#ffff"
+        android:ems="10"
+        android:textColor="#fff"
+        android:hint="Password"
+        android:drawableLeft="@drawable/ic_password"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/confirmPassword"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/passwordRegister"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:layout_marginBottom="-50dp"
+        android:background="#11000000"
+        android:textColorHint="#ffff"
+        android:ems="10"
+        android:textColor="#fff"
+        android:hint="Confirm Password"
+        android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/departmentName"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:layout_alignBottom="@id/confirmPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-56dp"
+        android:background="#11000000"
+        android:hint="Department Name"
+        android:inputType="textPersonName"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:drawableLeft="@drawable/ic_forum_black_24dp"
+        android:textColorHint="#ffff"/>
+
+    <Button
+        android:id="@+id/button_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/departmentName"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="-81dp"
+        android:background="#172196F3"
+
+        android:text="Sign Up"
+        android:textColor="#FFFF"
+        android:textSize="20dp" />
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883703584565",
+    "firebase_url": "https://augscan-a2e27.firebaseio.com",
+    "project_id": "augscan-a2e27",
+    "storage_bucket": "augscan-a2e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883703584565:android:97706a6dee6ea6da74de7c",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883703584565-l85mcjfatasr4at0m4qur6gp200h1hks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJ70IXPIGzJKcPeaEzBdcB2fW7ZAnkRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883703584565-l85mcjfatasr4at0m4qur6gp200h1hks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
