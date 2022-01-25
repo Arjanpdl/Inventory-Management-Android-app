@@ -1,34 +1,71 @@
 {
   "project_info": {
-    "project_number": "883703584565",
-    "firebase_url": "https://augscan-a2e27.firebaseio.com",
-    "project_id": "augscan-a2e27",
-    "storage_bucket": "augscan-a2e27.appspot.com"
+    "project_number": "600105462944",
+    "firebase_url": "https://online-outfits-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "online-outfits",
+    "storage_bucket": "online-outfits.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:883703584565:android:97706a6dee6ea6da74de7c",
+        "mobilesdk_app_id": "1:600105462944:android:d113ef6934381e79b7edc5",
         "android_client_info": {
-          "package_name": "com.example.admin.augscan"
+          "package_name": "com.app.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "883703584565-l85mcjfatasr4at0m4qur6gp200h1hks.apps.googleusercontent.com",
+          "client_id": "600105462944-3397v2o48tm0vqgrso1njv2pqdnm3us0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDRJ70IXPIGzJKcPeaEzBdcB2fW7ZAnkRU"
+          "current_key": "AIzaSyB9tvQ1LP-BnQ4El9Lmh9u6Z496ETgTtDE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "883703584565-l85mcjfatasr4at0m4qur6gp200h1hks.apps.googleusercontent.com",
+              "client_id": "600105462944-3397v2o48tm0vqgrso1njv2pqdnm3us0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600105462944:android:a5352c952c8fdb12b7edc5",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600105462944-lvsq84bqke5e7fkk0gt3uvok3jfui6bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.augscan",
+            "certificate_hash": "2ed132651c7b255e690d728f4503697b7b687be7"
+          }
+        },
+        {
+          "client_id": "600105462944-3397v2o48tm0vqgrso1njv2pqdnm3us0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9tvQ1LP-BnQ4El9Lmh9u6Z496ETgTtDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600105462944-3397v2o48tm0vqgrso1njv2pqdnm3us0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
